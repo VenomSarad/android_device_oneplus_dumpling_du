@@ -1,2 +1,2 @@
-# android_device_oneplus_dumpling_du
-Device tree for Dirty Unicorns (5T)
+# Device Tree
+Device tree for OnePlus 5T
